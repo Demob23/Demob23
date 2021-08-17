@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Demob23. Name is Dmitriy, i'm 
+- 👋 Hi, I’m @Demob23. Name is Dmitriy, live in Saratov, Russia. I am a beginner programmer.
 - 👀 I’m interested in Python programming and Mobile Development
 - 🌱 I’m currently learning Python
 - 📫 You can reach me on Twitter @FlumossedBear
